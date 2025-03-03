@@ -690,7 +690,7 @@ Move or copy files to the frontmost Finder window via the [Universal Actions](ht
 	<key>userconfigurationconfig</key>
 	<array/>
 	<key>version</key>
-	<string>2025.0</string>
+	<string>2025.1</string>
 	<key>webaddress</key>
 	<string>https://github.com/alfredapp/send-to-current-folder-workflow/</string>
 </dict>
